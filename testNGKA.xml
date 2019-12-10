@@ -1,0 +1,12 @@
+<suite name="KA">
+    <test name="TestKA">
+
+        <classes>
+            <class name="base.TestNG"></class>
+            <class name="base.TestNG2"></class>
+        </classes>
+
+    </test>
+
+
+</suite>

@@ -1,0 +1,20 @@
+
+
+<suite name="Nipa">
+
+
+    <test name="testNipa">
+
+        <classes>
+            <class name="base.TestNG"></class>
+
+            <class name="base.TestNG2"></class>
+
+
+        </classes>
+
+
+    </test>
+
+
+</suite>
